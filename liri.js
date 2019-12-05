@@ -37,7 +37,7 @@ function userInput(userOptions, inputParameter) {
 
 //Function for concert info
 
-function displayConcertInfo(inputParameter)    { 
+function displayConcertInfo(inputParameter) {
     var query = "https://rest.bandsintown.com/artists/" + inputParameter + "/events?app_id=codingbootcamp";
     request(queryURL, function (error, response, body) {
         //for successful requests
@@ -136,25 +136,25 @@ function displayMovieInfo(inputParameter) {
             var movies = JSON.parse(body);
             console.log("***MOVIE INFO HERE***");
             fs.appendFileSync("log.txt", "***MOVIE INFO HERE***\n");
-
+            //movie title
             console.log("Title: " + movies.Title);
             fs.appendFileSync("log.txt", "Title: " + movies.Title + "\n");
-
+            //movie year
             console.log("Year: " + movies.Year);
             fs.appendFileSync("log.txt", "Year: " + movies.Year + "\n");
-
+            //ratings by rotten tomatoes
             console.log("Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies));
             fs.appendFileSync("log.txt", "Rotten Tomatoes Rating: " + getRottenTomatoesRatingValue(movies) + "\n");
-
+            //country the movie is from 
             console.log("Country: " + movies.Country);
             fs.appendFileSync("log.txt", "Country: " + movies.Country + "\n");
-
+            //language in the movie
             console.log("Language: " + movies.Language);
             fs.appendFileSync("log.txt", "Language: " + movies.Language + "\n");
-
+            //short plot of the movie
             console.log("Plot: " + movies.Plot);
             fs.appendFileSync("log.txt", "Plot: " + movies.Plot + "\n");
-
+            //main actors in the movie
             console.log("Actors: " + movies.Actors);
             fs.appendFileSync("log.txt", "Language: " + movies.Actors + "\n");
 
@@ -167,7 +167,12 @@ function displayMovieInfo(inputParameter) {
     });
 }
 // random.txt file readability
-
-function displaySomeInfo()  {
-    fs.readFile("random.txt", 'utf8', function)
+function displaySomeInfo() {
+    fs.readFile("random.txt", 'utf8', function (err, data) {
+        if (err) {
+            return console.log(err);
+        }
+        var dataArray = data.split(',');
+        userInput(dataArray[0], dataArray[1]);
+    });
 }
