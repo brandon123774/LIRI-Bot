@@ -67,7 +67,6 @@ function displayConcertInfo(inputParameter) {
 }
 
 //Function for Spotify
-
 function displaySongInfo(inputParameter) {
     //the default song listed
     if (inputParameter === undefined) {

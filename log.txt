@@ -210,4 +210,206 @@ Album: MusicboxArtist :Nineties Legends
 Song: I Want It That Way
 Preview Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=6a268b02d39b43efaf015ee7ccc65fde
 Album: Selfies on KodachromeArtist :Scott Bradlee's Postmodern Jukebox
-************
+***************SONG INFO HERE***
+0
+Song: Delicate
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+1
+Song: End Game
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+2
+Song: I Don’t Wanna Live Forever (Fifty Shades Darker)
+Preview Song: null
+Album: reputation Stadium Tour Surprise Song PlaylistArtist :ZAYN
+***************SONG INFO HERE***
+3
+Song: ...Ready For It?
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+4
+Song: Look What You Made Me Do
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+5
+Song: I Did Something Bad
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+6
+Song: Look What You Made Me Do
+Preview Song: null
+Album: reputation (Big Machine Radio Release Special)Artist :Taylor Swift
+***************SONG INFO HERE***
+7
+Song: Bad Reputation
+Preview Song: https://p.scdn.co/mp3-preview/4daf9f3b4b23355b1612dd538653ebfcd00cf7e5?cid=6a268b02d39b43efaf015ee7ccc65fde
+Album: Bad Reputation (Expanded Edition)Artist :Joan Jett & The Blackhearts
+***************SONG INFO HERE***
+8
+Song: Gorgeous
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+9
+Song: Don’t Blame Me
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+10
+Song: Bad Reputation
+Preview Song: null
+Album: IlluminateArtist :Shawn Mendes
+***************SONG INFO HERE***
+11
+Song: Delicate
+Preview Song: null
+Album: reputation (Big Machine Radio Release Special)Artist :Taylor Swift
+***************SONG INFO HERE***
+12
+Song: Getaway Car
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+13
+Song: Call It What You Want
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+14
+Song: Dress
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+15
+Song: King Of My Heart
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+16
+Song: New Year’s Day
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+17
+Song: This Is Why We Can’t Have Nice Things
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+18
+Song: Dancing With Our Hands Tied
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+19
+Song: So It Goes...
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+0
+Song: Delicate
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+1
+Song: End Game
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+2
+Song: I Don’t Wanna Live Forever (Fifty Shades Darker)
+Preview Song: null
+Album: reputation Stadium Tour Surprise Song PlaylistArtist :ZAYN
+***************SONG INFO HERE***
+3
+Song: ...Ready For It?
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+4
+Song: Look What You Made Me Do
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+5
+Song: I Did Something Bad
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+6
+Song: Look What You Made Me Do
+Preview Song: null
+Album: reputation (Big Machine Radio Release Special)Artist :Taylor Swift
+***************SONG INFO HERE***
+7
+Song: Bad Reputation
+Preview Song: https://p.scdn.co/mp3-preview/4daf9f3b4b23355b1612dd538653ebfcd00cf7e5?cid=6a268b02d39b43efaf015ee7ccc65fde
+Album: Bad Reputation (Expanded Edition)Artist :Joan Jett & The Blackhearts
+***************SONG INFO HERE***
+8
+Song: Gorgeous
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+9
+Song: Don’t Blame Me
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+10
+Song: Bad Reputation
+Preview Song: null
+Album: IlluminateArtist :Shawn Mendes
+***************SONG INFO HERE***
+11
+Song: Delicate
+Preview Song: null
+Album: reputation (Big Machine Radio Release Special)Artist :Taylor Swift
+***************SONG INFO HERE***
+12
+Song: Getaway Car
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+13
+Song: Call It What You Want
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+14
+Song: Dress
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+15
+Song: King Of My Heart
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+16
+Song: New Year’s Day
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+17
+Song: This Is Why We Can’t Have Nice Things
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+18
+Song: Dancing With Our Hands Tied
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+***************SONG INFO HERE***
+19
+Song: So It Goes...
+Preview Song: null
+Album: reputationArtist :Taylor Swift
+************---------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix! 
